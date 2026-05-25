@@ -1,0 +1,7 @@
+Step 1: Just unzip all files into your Quests Directory
+
+Step 2:
+
+Copy and paste the following line into your Quests.dat file to install the quest!
+
+`dark brown`The King's Graveyard `bright magenta`<HARD 4 days>,Rob McGee (x-bit),xgrave.amb,
